@@ -6,7 +6,6 @@
     line-height: 22px;
     color: #545454;
     margin: 0;
-    height: 18px;
 }
 
 @media screen and (max-width:879px) {
@@ -20,7 +19,6 @@
     .footer__copyright{
         font-size: 14px;
         line-height: 17px;
-        height: 14px;
     }
     
 }
