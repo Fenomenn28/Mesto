@@ -1,0 +1,23 @@
+
+.cards__delete-cards{
+    background:0;
+    background-image: url(../../../images/Cards/Group.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 0;
+    width: 18px;
+    height: 19px;
+    cursor: pointer;
+    position: absolute;
+    right: 21.28px;
+    top: 25.7px;
+    
+}
+
+
+
+
+
+.cards__delete-cards:hover{
+    opacity: 0.5;
+}
